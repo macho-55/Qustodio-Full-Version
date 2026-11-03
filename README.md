@@ -247,4 +247,4 @@ This repository serves as the official landing page for Qustodio. The software i
 **Get the most recent version of Qustodio today!**
 
 ---
-**Last updated:** 2026-11-03 06:15:00 UTC
+**Last updated:** 2026-11-03 14:57:17 UTC
